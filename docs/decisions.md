@@ -1,0 +1,1 @@
+Kafka is helpful for processing continuous flows of data from producers.
